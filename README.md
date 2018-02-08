@@ -1,4 +1,4 @@
-#Minesweeper$
+#Minesweeper
 
 Playing directions are in game.js
 
